@@ -1,0 +1,18 @@
+algoritmo "Primeiro Programa" 
+
+var
+variavel01: caractere  
+variavel02: inteiro
+
+inicio
+escreva("qual seu nome?")
+leia(variavel01)
+escreval("")
+escreva("seu nome é: ", variavel01)
+escreval("")
+escreva("qual sua idade?")
+leia(variavel02)
+escreval("")
+escreva("seu nome é: ", variavel01 , ", sua idade é: ", variavel02)
+
+fimalgoritmo
